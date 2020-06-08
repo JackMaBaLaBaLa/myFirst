@@ -6,7 +6,7 @@
 	<groupId>com.roncoo.education</groupId>
 	<artifactId>spring-boot-demo-03-1</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-demo-03-1</name>
 	<description>配置文件详解：Properties</description>
